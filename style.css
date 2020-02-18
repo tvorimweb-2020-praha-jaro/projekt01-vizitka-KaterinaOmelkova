@@ -1,0 +1,73 @@
+/* Google font Raleway */
+body {
+    color: #282425;
+    background-color: #fff1e6;
+    font-family: 'Raleway', serif;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0;
+}
+h1, 
+h2, 
+h3,
+a {
+    color:#F08080;
+}
+h1 {
+    font-size: 80px;
+    font-weight: normal;
+    font-style: italic;
+    text-align: center;
+    color: white;
+    margin: 0;
+}
+h2 {
+    font-size: 48px;
+    text-align: center;
+    font-style: italic;
+}
+ul {
+    font-style: italic;
+}
+
+a {
+    font-style: italic;
+}
+h3 {
+    font-size: 30px;
+    text-align: left;
+}
+
+.kontakt
+ {
+    background-color: #f9e3d0;
+    margin-top: 0;
+}
+.paticka
+{
+    background-color: #282425;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.foto-omne {
+width: 250px;
+height: 250px;
+border: 2px solid #756158;
+border-radius: 50%;
+float: left;
+margin: 0 30px 30px 0;
+}
+
+section {
+    padding: 50px 15%;
+} 
+
+.hlavicka {
+    padding: 150px 30px;
+    background-image: url(obrazky/hlavicka.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
